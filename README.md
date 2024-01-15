@@ -10,7 +10,7 @@ This project involves creating a Tableau dashboard using provided sportsbook and
 
 **Timeline:** The task must be completed and returned within 5 working days of receipt. Feedback will be provided within the next 3 working days.
 
-**Presentation:** If selected to move forward, you will be required to present the dashboard along with key findings and recommendations based on the data analysis.
+**Presentation:** If selected to move forward, required to present the dashboard along with key findings and recommendations based on the data analysis.
 
 ## Key Performance Indicators (KPIs)
 To meet the needs of the trading team and casino manager, the following KPIs have been identified:
