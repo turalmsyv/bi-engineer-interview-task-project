@@ -6,7 +6,7 @@ This project involves creating a Tableau dashboard using provided sportsbook and
 ## Task Description
 **Objective:** To develop a comprehensive dashboard that offers insights into the performance of sportsbook and casino operations.
 
-**Data Integration:** The sportsbook data will need to be joined with the casino data to maximize its value and provide meaningful insights.
+**Data Integration and Manipulation:** Firstly , all data will be clean using pandas library of Python , then will be extracted to MSSQL database for extensive analysis. The sportsbook data will need to be joined with the casino data to maximize its value and provide meaningful insights. BI Tool - Tableau
 
 **Timeline:** The task must be completed and returned within 5 working days of receipt. Feedback will be provided within the next 3 working days.
 
