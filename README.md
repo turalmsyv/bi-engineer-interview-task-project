@@ -12,6 +12,29 @@ This project involves creating a Tableau dashboard using provided sportsbook and
 
 **Presentation:** If selected to move forward, you will be required to present the dashboard along with key findings and recommendations based on the data analysis.
 
+## Key Performance Indicators (KPIs)
+To meet the needs of the trading team and casino manager, the following KPIs have been identified:
+
+1. **Gross Gaming Revenue (GGR):** This is the big picture. GGR shows us how much money our sportsbook and casino are bringing in. It's like looking at the total earnings to understand how well we're doing financially.
+
+2. **Customer Acquisition Cost (CAC):** Think of CAC as the price tag for getting new customers. It helps us budget and figure out if our marketing efforts are costing too much or if they're a smart investment.
+
+3. **Customer Lifetime Value (CLV):** CLV predicts how valuable each customer will be in the long run. It's like knowing which customers are our VIPs, so we can treat them well and keep them around.
+
+4. **Churn Rate:** Churn rate is like a leaky bucket. It shows us how many customers we're losing. Lower churn means we're doing a great job keeping customers happy, which is good for business.
+
+5. **Average Bet Size:** This tells us how much people are betting on our platform. It's like understanding the size of bets at a poker table, helping us tailor our offerings to what players like.
+
+6. **Return on Investment (ROI):** ROI is our profit report card. It tells us if our marketing campaigns are making us money or not. It guides us in spending money wisely.
+
+7. **Sportsbook Margin:** Sportsbook margin is about managing risks and making smart bets. It's like knowing the odds in a game of roulette to maximize our profits.
+
+8. **Casino Payout Percentage:** This is all about fairness and profit. It shows us how much we pay out in winnings. Balancing it means players have fun, and we make money.
+
+9. **Customer Segmentation:** Imagine dividing our customers into groups based on their likes and dislikes. It helps us offer the right games and bonuses to the right people, keeping them happy.
+
+10. **Profitability by Game Type:** This one helps us see which games or types of bets make us the most money. It's like knowing which menu items are the most popular at a restaurant, so we can focus on those.
+
 ## Data Description
 The provided data contains player betting activity across both casino and sportsbook platforms.
 
