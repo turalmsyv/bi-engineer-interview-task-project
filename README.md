@@ -17,60 +17,78 @@ To meet the needs of the trading team and casino manager, the following KPIs hav
 
 ## Casino KPI Descriptions
 **Total Turnover by Provider**
+
 Description: Measures the total amount bet for each casino provider, highlighting their popularity and profitability.
 
 **Monthly Profit Trend**
+
 Description: Tracks the profit trend over time on a monthly basis, providing insights into performance and seasonal variations.
 
 **Player Engagement by Game**
+
 Description: Analyzes which games are most played in terms of spins, indicating their popularity and player engagement levels.
 
 **Client Profitability Analysis**
+
 Description: Identifies the most profitable clients, helping in understanding customer value and targeting.
 
 **Risk Analysis by Game Type**
+
 Description: Evaluates the financial risk associated with different game types, based on the total losses incurred.
 
 **Gross Gaming Revenue (GGR)**
+
 Description: Represents the total turnover, offering a snapshot of the overall financial performance of the casino.
 
 **Profitability by Game Type**
+
 Description: Analyzes the total profit generated from each game type, aiding in strategic game portfolio management.
 
 **Average Bet Size**
+
 Description: Calculates the average size of bets placed, useful for understanding betting behavior and preferences.
 
 
 ## Sportsbook KPI Descriptions
 
 **Total Bets Placed**
+
 Description: Counts the total number of bets placed, reflecting the overall activity level in the sportsbook.
 
 **Total Stakes and Wins**
+
 Description: Summarizes the total amount staked and the total wins, giving a complete picture of betting volume and returns.
 
 **Average Odds**
+
 Description: Provides the average odds of all bets placed, indicating the general risk profile of the bets.
 
 **Success Rate**
+
 Description: Represents the percentage of bets that were successful, useful for evaluating the performance of bettors.
 
 **Distribution of Bet Types**
+
 Description: Breaks down the different types of bets placed, offering insights into betting patterns and preferences.
 
 **Gross Gaming Revenue**
+
 Description: Calculated as the sum of all stakes minus the sum of all winnings paid out, reflecting the sportsbook's financial health.
 
 **Sportsbook Margin Percentage**
+
 Description: Represents the margin of the sportsbook, calculated as (Total stakes - Total winnings paid out) / Total stakes.
 
 **Profit by Game or Sport Type**
+
 Description: Analyzes the profit made from each type of game or sport, aiding in strategic decision-making.
 
 **User Segmentation by Betting Size**
+
 Description: Segments users based on their average bet size into categories like Low Roller, Medium Roller, and High Roller.
 
 ## Data Description
+
 The provided data contains player betting activity across both casino and sportsbook platforms.
 
 ### Casino Data
