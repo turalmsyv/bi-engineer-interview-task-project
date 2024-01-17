@@ -86,6 +86,7 @@ Description: Analyzes the profit made from each type of game or sport, aiding in
 **User Segmentation by Betting Size**
 
 Description: Segments users based on their average bet size into categories like Low Roller, Medium Roller, and High Roller.
+Segmentize users by their roll amount, categorizing them as 'Low Roller' WHEN AVG(STAKE) < 50, and for those with an average stake between 50 and 200, categorize them as 'Medium Roller', else classify them as 'High Roller'
 
 ## Data Description
 
